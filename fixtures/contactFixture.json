@@ -2,14 +2,14 @@
     "contact":{
         "firstname": "John",
         "lastname": "Doe",
-        "dob": "01/01/1990",
+        "dob": "2001-12-20",
         "email": "johndoe@example.com",
         "phone": "1234567890",
-        "address1": "123 Main St",
-        "address2": "",
+        "address1": "Main St",
+        "address2": "balaju",
         "country": "USA",
         "city": "New York",
         "state": "NY",
-        "postalcode": "12345"
+        "postalCode": "12345"
     }
 }

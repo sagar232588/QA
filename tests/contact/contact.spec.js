@@ -15,7 +15,7 @@ test.beforeEach(async ({ page }) => {
 test.describe("Contact testcases", () => {
   test("Contact Add test", async ({ page, context, request }) => {
     const contact = new ContactPage(page);
-    await contact.ContactAdd(
+    await contact.contactAdd(
       contactTestData.contact.firstname,
       contactTestData.contact.lastname,
       contactTestData.contact.dob,
